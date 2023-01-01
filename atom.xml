@@ -6,7 +6,7 @@
   <link href="https://mrunbelievable.github.io/atom.xml" rel="self"/>
   
   <link href="https://mrunbelievable.github.io/"/>
-  <updated>2022-12-11T19:43:23.064Z</updated>
+  <updated>2023-01-01T22:43:02.887Z</updated>
   <id>https://mrunbelievable.github.io/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一</title>
-    <link href="https://mrunbelievable.github.io/2022/12/10/My-New-Post/"/>
-    <id>https://mrunbelievable.github.io/2022/12/10/My-New-Post/</id>
-    <published>2022-12-11T07:49:00.000Z</published>
-    <updated>2022-12-11T19:43:23.064Z</updated>
+    <title>Announcement</title>
+    <link href="https://mrunbelievable.github.io/2023/01/01/announcement/"/>
+    <id>https://mrunbelievable.github.io/2023/01/01/announcement/</id>
+    <published>2023-01-01T22:31:15.000Z</published>
+    <updated>2023-01-01T22:43:02.887Z</updated>
     
+    <content type="html"><![CDATA[<p>开始投身游戏行业</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;开始投身游戏行业&lt;/p&gt;
+</summary>
+      
     
     
     
